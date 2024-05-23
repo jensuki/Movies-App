@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+input {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.submitBtn {
+    margin-top: 10px;
+}
+
+#movieList {
+    width: 200px;
+    height: 200px;
+}
+
+.newMovieItem {
+    margin-top: 15px;
+}
+
+.remove {
+    margin-left: 10px;
+}
